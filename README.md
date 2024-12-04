@@ -21,9 +21,14 @@ Edges: 2822 (total interactions)
 ## Book-Specific Networks
 Each book is represented as a separate network:
 
-Book 1	Book 2	Book 3	Book 4	Book 5	All Books
-Nodes	187	266	293	309	325	796
-Edges	684	774	1008	682	760	2822
+| Book   | Nodes | Edges |
+|--------|-------|-------|
+| Book 1 | 187   | 684   |
+| Book 2 | 266   | 774   |
+| Book 3 | 293   | 1008  |
+| Book 4 | 309   | 682   |
+| Book 5 | 325   | 760   |
+| **All Books** | **796**   | **2822**  |
 Visualizations
 Below are visualizations of networks for Book 1 and Book 2:
 
