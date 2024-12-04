@@ -33,7 +33,7 @@ Each book is represented as a separate network:
 
 
 Visualizations
-Below are visualizations of networks for Book 1 and Book 2:
+Below are visualizations of networks for Book 1 :
 ![Book 1](book_1.png)
 Node size is proportional to the degree of each character (number of direct interactions).
 Book 1Book 2
