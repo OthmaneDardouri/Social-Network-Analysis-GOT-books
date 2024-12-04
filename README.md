@@ -29,9 +29,12 @@ Each book is represented as a separate network:
 | Book 4 | 309   | 682   |
 | Book 5 | 325   | 760   |
 | **All Books** | **796**   | **2822**  |
+
+
+
 Visualizations
 Below are visualizations of networks for Book 1 and Book 2:
-
+![Book 1](C:\Users\othma\Downloads\Social Network Analysis of _Game of Thrones_ series\book_1.png)
 Node size is proportional to the degree of each character (number of direct interactions).
 Book 1Book 2
 
